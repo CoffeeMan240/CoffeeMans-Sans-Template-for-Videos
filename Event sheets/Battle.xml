@@ -8052,7 +8052,7 @@
                     <actions>
                         <action id="-9" name="Set value" sid="3058735257082932" type="System">
                             <param id="0" name="Variable">KR</param>
-                            <param id="1" name="Value">HP-1</param>
+                            <param id="1" name="Value">HP-0</param>
                         </action>
                     </actions>
                 </event-block>
