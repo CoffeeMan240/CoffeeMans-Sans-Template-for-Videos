@@ -3474,7 +3474,7 @@
                                             <actions>
                                                 <action id="-11" name="Subtract from" sid="596088198518508" type="System">
                                                     <param id="0" name="Variable">HP</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                             </actions>
                                         </event-block>
@@ -3579,7 +3579,7 @@
                                             <actions>
                                                 <action id="-11" name="Subtract from" sid="147709354093065" type="System">
                                                     <param id="0" name="Variable">HP</param>
-                                                    <param id="1" name="Value">1</param>
+                                                    <param id="1" name="Value">0</param>
                                                 </action>
                                             </actions>
                                         </event-block>
